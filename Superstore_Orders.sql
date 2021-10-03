@@ -142,7 +142,7 @@ select *
 from month_base    
 ;
 
--- 2. Customer Retention Analysis. 
+-- 4. Customer Retention Analysis. 
 -- In one query, build a datasource that could answer following questions
 -- - Customer spent on each order
 -- - Customers who spent more than $1000 in total and did not buy anything in the last 180 days (Use 2017-12-30 as current day and use Function to calculate 180 days)
